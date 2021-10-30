@@ -45,6 +45,7 @@ public interface List<T> {
 	 */
 	default boolean contains(T pattern) {
 		//TODO
+		// V.R. There isn't implementation. The default method has to be implemented!
 		return false;
 	}
 	
@@ -55,6 +56,7 @@ public interface List<T> {
 	 */
 	default int indexOf(T pattern) {
 		//TODO
+		// V.R. There isn't implementation. The default method has to be implemented!
 		return -1;
 	}
 	
@@ -65,6 +67,7 @@ public interface List<T> {
 	 */
 	default int lastIndexOf(T pattern) {
 		//TODO
+		// V.R. There isn't implementation. The default method has to be implemented!
 		return -1;
 	}
 	
@@ -75,6 +78,7 @@ public interface List<T> {
 	 */
 	default boolean contains(Predicate<T> predicate) {
 		//TODO
+		// V.R. There isn't implementation. The default method has to be implemented!
 		return false;
 	}
 	/**
@@ -103,6 +107,7 @@ public interface List<T> {
 	 */
 	default void sort() {
 		//TODO write default implementation based on the method sort with comparator
+		// V.R. There isn't implementation. The default method has to be implemented!
 	}
 	
 	/**
